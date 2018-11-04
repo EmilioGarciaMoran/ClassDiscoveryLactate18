@@ -2,7 +2,7 @@
 title: "Class Discovery"
 author: "Emilio García Morán"
 date: "4 de noviembre de 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
